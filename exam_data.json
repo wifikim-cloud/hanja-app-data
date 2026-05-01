@@ -1,0 +1,267 @@
+{
+  "exam_info": {
+    "level": "2급",
+    "round": 100,
+    "exam_date": "2023-02-25",
+    "duration_minutes": 60,
+    "total_questions": 150,
+    "organization": "한국어문회",
+    "certification": "국가공인"
+  },
+  "sections": [
+    {
+      "section_id": 1,
+      "range": "1-20",
+      "type": "讀音(문장)",
+      "instruction": "다음 문장에서 밑줄 친 漢字語의 讀音을 쓰시오.",
+      "questions": [
+        {"no": 1, "context": "잘 쉬었더니 皮膚가 좋아졌다.", "target": "皮膚", "answer": "피부"},
+        {"no": 2, "context": "그는 곧 災殃이 닥칠 것이라고 예언했다.", "target": "災殃", "answer": "재앙"},
+        {"no": 3, "context": "링컨은 奴隷를 해방했다.", "target": "奴隷", "answer": "노예"},
+        {"no": 4, "context": "의사가 利尿劑를 처방했다.", "target": "利尿劑", "answer": "이뇨제"},
+        {"no": 5, "context": "雇用지수가 하락하는 추세.", "target": "雇用", "answer": "고용"},
+        {"no": 6, "context": "3시에 休憩室에서 만나.", "target": "休憩室", "answer": "휴게실"},
+        {"no": 7, "context": "고양이에게 飼料를 주었다.", "target": "飼料", "answer": "사료"},
+        {"no": 8, "context": "너의 주장은 矛盾으로 가득하다.", "target": "矛盾", "answer": "모순"},
+        {"no": 9, "context": "대문호 蘇軾은 황주에 거주했다.", "target": "蘇軾", "answer": "소식"},
+        {"no": 10, "context": "절망의 深淵에 빠지지 않게 조심해야.", "target": "深淵", "answer": "심연"},
+        {"no": 11, "context": "모로코 鐵甕城 5분만에 깬 프랑스.", "target": "鐵甕城", "answer": "철옹성"},
+        {"no": 12, "context": "교수는 자신의 주장을 敷衍하여 설명했다.", "target": "敷衍", "answer": "부연"},
+        {"no": 13, "context": "寺刹을 방문하면 마음이 편해진다.", "target": "寺刹", "answer": "사찰"},
+        {"no": 14, "context": "自炊는 생각보다 비용이 많이 든다.", "target": "自炊", "answer": "자취"},
+        {"no": 15, "context": "군왕을 올바르게 輔弼하여.", "target": "輔弼", "answer": "보필"},
+        {"no": 16, "context": "강태공은 渭水에서 낚시했다.", "target": "渭水", "answer": "위수"},
+        {"no": 17, "context": "신부는 명문대 출신의 才媛이다.", "target": "才媛", "answer": "재원"},
+        {"no": 18, "context": "원주민들은 화산에 대한 畏敬의 마음을 품고 있었다.", "target": "畏敬", "answer": "외경"},
+        {"no": 19, "context": "요새는 妊婦服도 디자인이 아름답다.", "target": "妊婦服", "answer": "임부복"},
+        {"no": 20, "context": "드라큘라 伯爵.", "target": "伯爵", "answer": "백작"}
+      ]
+    },
+    {
+      "section_id": 2,
+      "range": "21-45",
+      "type": "讀音(漢字語)",
+      "instruction": "다음 漢字語의 讀音을 쓰시오.",
+      "questions": [
+        {"no": 21, "target": "魔笛", "answer": "마적"},
+        {"no": 22, "target": "奏請", "answer": "주청"},
+        {"no": 23, "target": "論旨", "answer": "논지"},
+        {"no": 24, "target": "診療", "answer": "진료"},
+        {"no": 25, "target": "斬新", "answer": "참신"},
+        {"no": 26, "target": "締結", "answer": "체결"},
+        {"no": 27, "target": "減縮", "answer": "감축"},
+        {"no": 28, "target": "姸醜", "answer": "연추"},
+        {"no": 29, "target": "妥協", "answer": "타협"},
+        {"no": 30, "target": "彫琢", "answer": "조탁"},
+        {"no": 31, "target": "弁韓", "answer": "변한"},
+        {"no": 32, "target": "修繕", "answer": "수선"},
+        {"no": 33, "target": "攝政", "answer": "섭정"},
+        {"no": 34, "target": "柴炭", "answer": "시탄"},
+        {"no": 35, "target": "穩睡", "answer": "온수"},
+        {"no": 36, "target": "棋院", "answer": "기원"},
+        {"no": 37, "target": "鷹犬", "answer": "응견"},
+        {"no": 38, "target": "沮害", "answer": "저해"},
+        {"no": 39, "target": "偵探", "answer": "정탐"},
+        {"no": 40, "target": "九鼎", "answer": "구정"},
+        {"no": 41, "target": "綜合", "answer": "종합"},
+        {"no": 42, "target": "窒酸", "answer": "질산"},
+        {"no": 43, "target": "付託", "answer": "부탁"},
+        {"no": 44, "target": "耽溺", "answer": "탐닉"},
+        {"no": 45, "target": "該當", "answer": "해당"}
+      ]
+    },
+    {
+      "section_id": 3,
+      "range": "46-72",
+      "type": "訓音",
+      "instruction": "다음 漢字의 訓과 音을 쓰시오.",
+      "questions": [
+        {"no": 46, "target": "亢", "answer": "높을 항"},
+        {"no": 47, "target": "胤", "answer": "자손 윤"},
+        {"no": 48, "target": "融", "answer": "녹을 융"},
+        {"no": 49, "target": "詠", "answer": "읊을 영"},
+        {"no": 50, "target": "崩", "answer": "무너질 붕"},
+        {"no": 51, "target": "僻", "answer": "궁벽할 벽"},
+        {"no": 52, "target": "筏", "answer": "떼 벌"},
+        {"no": 53, "target": "暮", "answer": "저물 모"},
+        {"no": 54, "target": "敏", "answer": "민첩할 민"},
+        {"no": 55, "target": "俳", "answer": "배우 배"},
+        {"no": 56, "target": "娩", "answer": "낳을 만"},
+        {"no": 57, "target": "賠", "answer": "물어줄 배"},
+        {"no": 58, "target": "鉢", "answer": "바리때 발"},
+        {"no": 59, "target": "鳳", "answer": "새 봉"},
+        {"no": 60, "target": "箱", "answer": "상자 상"},
+        {"no": 61, "target": "貰", "answer": "세놓을 세"},
+        {"no": 62, "target": "洙", "answer": "물가 수"},
+        {"no": 63, "target": "鴨", "answer": "오리 압"},
+        {"no": 64, "target": "愈", "answer": "나을 유"},
+        {"no": 65, "target": "燃", "answer": "탈 연"},
+        {"no": 66, "target": "閼", "answer": "막을 알"},
+        {"no": 67, "target": "匪", "answer": "비적 비"},
+        {"no": 68, "target": "秉", "answer": "잡을 병"},
+        {"no": 69, "target": "纖", "answer": "가늘 섬"},
+        {"no": 70, "target": "孰", "answer": "누구 숙"},
+        {"no": 71, "target": "額", "answer": "이마 액"},
+        {"no": 72, "target": "鉛", "answer": "납 연"}
+      ]
+    },
+    {
+      "section_id": 4,
+      "range": "73-77",
+      "type": "長音",
+      "instruction": "다음 漢字語 중 첫 음절이 길게 발음되는 것의 번호를 쓰시오.",
+      "questions": [
+        {"no": 73, "options": {"1": "將帥", "2": "長壽"}, "answer": "1"},
+        {"no": 74, "options": {"1": "右便", "2": "郵便"}, "answer": "1"},
+        {"no": 75, "options": {"1": "零上", "2": "影像"}, "answer": "2"},
+        {"no": 76, "options": {"1": "詩人", "2": "是認"}, "answer": "2"},
+        {"no": 77, "options": {"1": "駐日", "2": "週日"}, "answer": "1"}
+      ]
+    },
+    {
+      "section_id": 5,
+      "range": "78-107",
+      "type": "漢字 쓰기",
+      "instruction": "다음 문장에서 밑줄 친 漢字語를 漢字(正字)로 쓰시오.",
+      "questions": [
+        {"no": 78, "context": "출하 장려금 지급을 확대하여 성수기 수급 안정은 물론 소비자 신뢰 제고에도 보탬이 될 전망이다.", "target": "출하", "answer": "出荷"},
+        {"no": 79, "target": "장려금", "answer": "獎勵金"},
+        {"no": 80, "target": "지급", "answer": "支給"},
+        {"no": 81, "target": "확대", "answer": "擴大"},
+        {"no": 82, "target": "성수기", "answer": "盛需期"},
+        {"no": 83, "target": "소비자", "answer": "消費者"},
+        {"no": 84, "target": "신뢰", "answer": "信賴"},
+        {"no": 85, "target": "제고", "answer": "提高"},
+        {"no": 86, "context": "종교 지도자들은 증오 분노를 넘어서는 인내와 용서 화해를 강조했다.", "target": "증오", "answer": "憎惡"},
+        {"no": 87, "target": "분노", "answer": "憤怒", "alt_answers": ["忿怒"]},
+        {"no": 88, "target": "인내", "answer": "忍耐"},
+        {"no": 89, "target": "용서", "answer": "容恕"},
+        {"no": 90, "target": "화해", "answer": "和解"},
+        {"no": 91, "target": "강조", "answer": "強調"},
+        {"no": 92, "context": "기축 통화의 조건으로는 가치안정성을 필수 요건으로 꼽는다.", "target": "통화", "answer": "通貨"},
+        {"no": 93, "target": "조건", "answer": "條件"},
+        {"no": 94, "target": "필수", "answer": "必須"},
+        {"no": 95, "context": "비약적인 발전을 위해 변호사님을 대표로 추천했다.", "target": "비약", "answer": "飛躍"},
+        {"no": 96, "target": "발전", "answer": "發展"},
+        {"no": 97, "target": "변호사", "answer": "辯護士"},
+        {"no": 98, "target": "추천", "answer": "推薦"},
+        {"no": 99, "context": "박람회에 인파가 밀집하다 보니 안전사고의 우려가 있다.", "target": "박람회", "answer": "博覽會"},
+        {"no": 100, "target": "밀집", "answer": "密集"},
+        {"no": 101, "target": "우려", "answer": "憂慮"},
+        {"no": 102, "context": "한파가 밀려오기 전에 동파를 방지하기 위해 자동차에 미리 부동액을 채워 넣었다.", "target": "한파", "answer": "寒波"},
+        {"no": 103, "target": "방지", "answer": "防止"},
+        {"no": 104, "target": "부동액", "answer": "不凍液"},
+        {"no": 105, "context": "최악의 폭설사태에 약탈과 범죄가 기승을 부렸다.", "target": "약탈", "answer": "掠奪"},
+        {"no": 106, "target": "범죄", "answer": "犯罪"},
+        {"no": 107, "target": "기승", "answer": "氣勝"}
+      ]
+    },
+    {
+      "section_id": 6,
+      "range": "108-112",
+      "type": "類義語(빈칸 채우기)",
+      "instruction": "다음 漢字와 비슷한 뜻을 가진 漢字(正字)를 ( ) 안에 써서 문맥에 어울리는 漢字語가 되게 하시오.",
+      "questions": [
+        {"no": 108, "context": "담당자의 錯( )로 문제가 발생했다.", "blank_position": "錯( )", "answer": "誤"},
+        {"no": 109, "context": "우리 팀의 攻( )이 끝났다.", "blank_position": "攻( )", "answer": "擊"},
+        {"no": 110, "context": "사장님은 사업을 하시면서 많은 ( )曲을 겪으셨다.", "blank_position": "( )曲", "answer": "屈"},
+        {"no": 111, "context": "( )盜 혐의로 용의자를 체포했다.", "blank_position": "( )盜", "answer": "竊"},
+        {"no": 112, "context": "유치하고 ( )劣한 행위는 이제 그만두어야.", "blank_position": "( )劣", "answer": "拙"}
+      ]
+    },
+    {
+      "section_id": 7,
+      "range": "113-117",
+      "type": "反對語/相對語(빈칸 채우기)",
+      "instruction": "다음 문장에서 漢字와 뜻이 反對 또는 相對되는 漢字(正字)를 ( ) 안에 써서 漢字語를 완성하시오.",
+      "questions": [
+        {"no": 113, "context": "세상사 모든 일에는 흥망과 ( )沈이 있게 마련이다.", "blank_position": "( )沈", "answer": "浮"},
+        {"no": 114, "context": "縱( ) 손흥민의 무진 활약이 팀을 승리로 이끌었다.", "blank_position": "縱( )", "answer": "橫"},
+        {"no": 115, "context": "表( )부동한 사람과는 함께 일할 수 없다.", "blank_position": "表( )", "answer": "裏"},
+        {"no": 116, "context": "수묵화는 먹의 濃( )을 활용한다.", "blank_position": "濃( )", "answer": "淡"},
+        {"no": 117, "context": "교수님이 학생의 글을 添( ) 해주셨다.", "blank_position": "添( )", "answer": "削"}
+      ]
+    },
+    {
+      "section_id": 8,
+      "range": "118-122",
+      "type": "反對語/相對語(漢字로 쓰기)",
+      "instruction": "다음 漢字語의 反對語 또는 相對語를 漢字(正字)로 쓰시오.",
+      "questions": [
+        {"no": 118, "given": "嚴格", "answer": "仁慈"},
+        {"no": 119, "given": "緩慢", "answer": "急激"},
+        {"no": 120, "given": "獨創", "answer": "模倣"},
+        {"no": 121, "given": "外延", "answer": "內包"},
+        {"no": 122, "given": "愼重", "answer": "輕率"}
+      ]
+    },
+    {
+      "section_id": 9,
+      "range": "123-127",
+      "type": "同音異義語",
+      "instruction": "다음 漢字語의 同音異義語를 제시된 뜻에 맞는 漢字(正字)로 쓰시오.",
+      "questions": [
+        {"no": 123, "given": "稅布", "meaning": "생물체를 이루는 기본 단위.", "answer": "細胞"},
+        {"no": 124, "given": "柔道", "meaning": "사람이나 물건을 목적한 장소나 방향으로 이끎.", "answer": "誘導"},
+        {"no": 125, "given": "報告", "meaning": "귀중한 물건을 간수해 두는 창고.", "answer": "寶庫"},
+        {"no": 126, "given": "未盡", "meaning": "진도 1의 약한 지진.", "answer": "微震"},
+        {"no": 127, "given": "戰果", "meaning": "학과 따위를 옮김.", "answer": "轉科"}
+      ]
+    },
+    {
+      "section_id": 10,
+      "range": "128-137",
+      "type": "四字成語",
+      "instruction": "다음 ( ) 안에 알맞은 漢字(正字)를 써서 四字成語를 완성하시오.",
+      "questions": [
+        {"no": 128, "phrase": "經世( )民", "meaning": "세상을 다스리고 백성을 구함.", "answer": "濟"},
+        {"no": 129, "phrase": "吉凶( )福", "meaning": "길흉과 화복.", "answer": "禍"},
+        {"no": 130, "phrase": "群雄( )據", "meaning": "여러 영웅이 각기 한 지방씩 차지하고 위세를 부림.", "answer": "割"},
+        {"no": 131, "phrase": "男( )女戴", "meaning": "남자는 등에 지고 여자는 머리에 짐을 인다.", "answer": "負"},
+        {"no": 132, "phrase": "拔本( )源", "meaning": "폐단의 근본 원인을 아주 없앰.", "answer": "塞"},
+        {"no": 133, "phrase": "束手無( )", "meaning": "손을 묶어놓아 방책이 없음.", "answer": "策"},
+        {"no": 134, "phrase": "切齒( )心", "meaning": "몹시 분하여 이를 갈며 속을 썩임.", "answer": "腐"},
+        {"no": 135, "phrase": "( )卵之勢", "meaning": "층층이 쌓아 놓은 알처럼, 몹시 위태로운 형세.", "answer": "累"},
+        {"no": 136, "phrase": "太平( )月", "meaning": "근심이나 걱정이 없는 편안한 세월.", "answer": "煙"},
+        {"no": 137, "phrase": "危( )一髮", "meaning": "여유가 조금도 없이 몹시 절박한 순간.", "answer": "機"}
+      ]
+    },
+    {
+      "section_id": 11,
+      "range": "138-142",
+      "type": "部首",
+      "instruction": "다음 漢字의 部首를 쓰시오.",
+      "questions": [
+        {"no": 138, "target": "暴", "answer": "日"},
+        {"no": 139, "target": "尺", "answer": "尸"},
+        {"no": 140, "target": "衆", "answer": "血"},
+        {"no": 141, "target": "壯", "answer": "士"},
+        {"no": 142, "target": "疑", "answer": "疋"}
+      ]
+    },
+    {
+      "section_id": 12,
+      "range": "143-145",
+      "type": "略字",
+      "instruction": "다음 漢字의 略字를 쓰시오.",
+      "questions": [
+        {"no": 143, "target": "靈", "answer": "灵"},
+        {"no": 144, "target": "麥", "answer": "麦"},
+        {"no": 145, "target": "驛", "answer": "駅"}
+      ]
+    },
+    {
+      "section_id": 13,
+      "range": "146-150",
+      "type": "漢字語 뜻풀이",
+      "instruction": "다음 漢字語의 뜻을 쓰시오.",
+      "questions": [
+        {"no": 146, "target": "浸潤", "answer": "스며들어 젖음."},
+        {"no": 147, "target": "舊址", "answer": "옛터"},
+        {"no": 148, "target": "贈與", "answer": "물건 따위를 줌"},
+        {"no": 149, "target": "駿馬", "answer": "잘 달리는 말"},
+        {"no": 150, "target": "搖動", "answer": "흔들림"}
+      ]
+    }
+  ]
+}
